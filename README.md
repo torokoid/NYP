@@ -100,7 +100,7 @@ body::before {
 <a href="20181224_29.JPG" data-lightbox="abc"><img src="20181224_29.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20181224_30.JPG" data-lightbox="abc"><img src="20181224_30.JPG" alt="サンプル画像" width="200" /></a>
 -->
-<b><p align="left"><a href="http://www.super-sento.com/utsunomiya/ganbanyoku.html" target="_blank">温泉Onsen_Link</a></p></b>
+
 
 
 
